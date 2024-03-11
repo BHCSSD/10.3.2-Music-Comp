@@ -1,11 +1,11 @@
-# 10.3.2-Drivers
+# 10.3.2-Music comp
 
 
 You will need a simple logo for a music contest, you can use mine, or quickly go find one. 
 
 
 
-```// Unit 3 - STARTER CODE - Example 3 - Contest Registration
+```
 //Global Variables 
 let nom;
 let year;
