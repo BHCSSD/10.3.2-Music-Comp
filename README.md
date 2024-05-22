@@ -67,8 +67,8 @@ function mousePressed() {
 //        text("Division: Child", 50, 350);
 //    }
 
-// ask the user  what category they want, fill the `cat` variable    ("What category pro or amateur?");
-//        if( ){ check to see if they are "pro"
+// ask the user  what category they want, fill in the `cat` variable    ("What category pro or amateur?");
+//        if( ){ //check to see if they are "pro"
 //        text("Fee for Professionals: $100", 50, 400);
 //    } else { // if they are pro that means they are ...
 //        text("Fee for Amateurs: $30", 50, 400);
