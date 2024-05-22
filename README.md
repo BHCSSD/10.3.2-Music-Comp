@@ -7,7 +7,7 @@ You will need a simple logo for a music contest, you can use mine, or quickly go
 
 ```
 //Global Variables 
-let nom;
+let name;
 let year;
 let age;
 let instrument;
@@ -16,7 +16,7 @@ let logo;
 let angle = 0;
 
 function preload() {
-    // LOADS IMAGE for logo here  remember to use createImg... and hide it after... im sorry I know it sucks
+    // LOADS IMAGE for logo here  remember to use createImg()... and hide it after... im sorry I know it sucks
 }//end preloading of images and fonts
 
 function setup() {
@@ -47,7 +47,7 @@ function draw() {
 
 function mousePressed() {
     background(155, 135, 155);
-    // ask for users name here in the nom variable
+    // ask for users name here in the name variable
     // print("Debug: testing name variable: " + name);
     // ask the user their birth year in  the year variable
     //age // do the math to figure out how old our user is
@@ -56,7 +56,7 @@ function mousePressed() {
     noStroke();
     textSize(24);
   
-//    text("Competitor Name: " , 50, 300); // joing the text with the `nom` variable
+//    text("Competitor Name: " , 50, 300); // joing the text with the `name` variable
 //    text("Age: " , 50, 325); // joing the text with the `age` variable 
 
 //    if () { // old ones... over 21
