@@ -5,7 +5,7 @@ You will need a simple logo for a music contest, you can use mine, or quickly go
 
 
 
-```
+```javaScript
 //Global Variables 
 let name;
 let year;
